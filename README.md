@@ -66,14 +66,16 @@
 ---
 
 ## 🌐 Connect with Me  
+## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshujha25">
+  <a href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2FHimanshujha25&urlhash=kfrX&trk=public_profile-settings_topcard-website">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/himanshujha25">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
