@@ -12,6 +12,7 @@
 - 🤝 I’m looking for a **mentor** to guide me  
 - 💬 Ask me about **JavaScript, React, and Web Development**  
 - 📫 How to reach me: **[Email Me](mailto:jhahimanshu930@gmail.com)**  
+- 🌍 **Check out my Portfolio:** [himanshu-jha-portfolio-lemon.vercel.app](https://himanshu-jha-portfolio-lemon.vercel.app)  
 
 ---
 
@@ -34,6 +35,7 @@
 ---
 
 ### 🚀 Latest Projects  
+- **[Portfolio Website](https://himanshu-jha-portfolio-lemon.vercel.app/)** 🌐 *(My personal developer portfolio)*  
 - **[RecipeMaker](https://github.com/himanshujha25/RecipeMaker)** 🍲 *(React-based Recipe App)*  
 - **[BMI Calculator](https://github.com/himanshujha25/BMI-Calculator)** ⚖️ *(Simple tool to calculate BMI)*  
 - **[To-Do List](https://github.com/himanshujha25/To-Do-List)** ✅ *(Task management web app)*  
