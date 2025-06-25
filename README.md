@@ -1,17 +1,17 @@
-<!-- Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=37F0F7&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Himanshu+Jha+%F0%9F%91%8B;Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+MERN+Stack;Passionate+about+Web+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=37F0F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Himanshu+Jha+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Amazing+Together!">
 </p>
 
 ---
 
 ## 🌟 About Me  
-- 💻 **Full Stack Developer** | 🌍 Passionate about **MERN Stack**  
-- 🚀 Currently learning **Backend & Cybersecurity**  
-- 🎯 Looking for a **mentor** to improve my skills  
-- 💬 Ask me about **JavaScript, React, and Web Development**  
+- 💻 **Full Stack Developer** focused on building real-world projects  
+- ⚙️ Working with **MERN Stack**, **OpenAI APIs**, and **Web APIs**  
+- 🌱 Currently learning **Backend Architecture & Cybersecurity**  
+- 🧠 Always open to new challenges & opportunities  
 - 📩 **Reach me at:** [jhahimanshu930@gmail.com](mailto:jhahimanshu930@gmail.com)  
-- 🌍 **Portfolio Website:** [himanshu-portfolio-lemon.vercel.app](https://himanshu-portfolio-lemon.vercel.app/)  
+- 🌍 **Portfolio Website:** [himanshu-portfolio-lemon.vercel.app](https://himanshu-portfolio-lemon.vercel.app/)
 
 ---
 
@@ -32,6 +32,46 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 [Triply - AI Travel Planner](https://github.com/himanshujha25/Triply)
+An AI-powered travel planner that generates custom itineraries using OpenAI & Google Maps API.  
+- 🧳 Auto day-wise plans  
+- 📍 Interactive maps  
+- 🌤️ Weather & budget support  
+**Tech:** React, Node.js, Express, MongoDB, OpenAI API, Google API
+
+---
+
+### 🍲 [RecipeMaker](https://github.com/himanshujha25/RecipeMaker)  
+A sleek and responsive web app for browsing delicious vegetarian, vegan, and dessert recipes.  
+- Search & Filter by type  
+- Easy to extend UI  
+**Tech:** React, CSS Modules
+
+---
+
+### ⚖️ [BMI Calculator](https://github.com/himanshujha25/BMI-Calculator)  
+Clean, minimal, and fast BMI calculator.  
+- Input height & weight  
+- Dynamic results in real-time  
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### ✅ [To‑Do List](https://github.com/himanshujha25/To-Do-List)  
+Helps manage daily tasks with localStorage support.  
+- Add, delete, and track todos  
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### 👨‍💻 [Portfolio Website](https://github.com/Himanshujha25/himanshu_portfolio)  
+Responsive developer portfolio showcasing my journey and work.  
+**Tech:** React, CSS
 
 ---
 
@@ -57,18 +97,9 @@
 
 ---
 
-## 🚀 Latest Projects  
-- 🌍 **[Portfolio Website](https://github.com/Himanshujha25/himanshu_portfolio)** *(My personal developer portfolio)*  
-- 🍲 **[RecipeMaker](https://github.com/himanshujha25/RecipeMaker)** *(React-based Recipe App)*  
-- ⚖️ **[BMI Calculator](https://github.com/himanshujha25/BMI-Calculator)** *(Simple tool to calculate BMI)*  
-- ✅ **[To-Do List](https://github.com/himanshujha25/To-Do-List)** *(Task management web app)*  
-
----
-
-## 🌐 Connect with Me  
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2FHimanshujha25&urlhash=kfrX&trk=public_profile-settings_topcard-website">
+  <a href="https://www.linkedin.com/in/himanshujha25">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/himanshujha25">
@@ -76,15 +107,10 @@
   </a>
 </p>
 
-
 ---
 
 ## 🎉 Fun Fact  
-😎 *I love experimenting with new technologies and working on cool projects!*  
+😎 *I love experimenting with new technologies and turning ideas into working apps!*
 
 ---
 
-### 🎯 **How to Apply?**
-✅ **Copy & Paste** this into your `README.md` on GitHub  
-✅ **Test all links** to ensure they work correctly  
-✅ **Let me know if you want more tweaks!** 🚀🔥  
